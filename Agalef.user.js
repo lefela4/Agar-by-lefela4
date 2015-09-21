@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name        OGARio by lefela444
+// @name         Agar.lefela444
 // @description Agar.io Unofficial Polish MOD (EN)
 // @author      szymy
-// @namespace   OGARio.szymy
+// @namespace   Agar
 // @include     http://agar.io/*
 // @include     https://agar.io/*
 // @version     0.7.0
